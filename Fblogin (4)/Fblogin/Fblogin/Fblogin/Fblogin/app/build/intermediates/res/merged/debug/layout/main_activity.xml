@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp"
+    >
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout2">
+
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email "
+        android:inputType="textEmailAddress" />
+
+        <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:text="New User? Sign Up!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="18sp"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Welcome!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="24sp"
+        android:textColor="@android:color/holo_red_light"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/login_button"
+        android:layout_marginTop="78dp" />
+
+    <Button
+        android:text="Sign Up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bRegister"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_toEndOf="@+id/textView2"
+        android:layout_marginStart="37dp" />
+
+    <TextView
+        android:text="Existing User? Login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tSignin"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="18sp"
+        android:layout_below="@+id/bRegister"
+        android:layout_alignParentStart="true"
+        android:textStyle="normal|bold|italic"
+        android:textAllCaps="false"
+        android:fontFamily="sans-serif-medium"
+        android:linksClickable="true" />
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tSignin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp" />
+
+</RelativeLayout>

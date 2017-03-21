@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\sdeep\\Downloads\\Fblogin (4)\\Fblogin (4)\\Fblogin\\Fblogin\\Fblogin\\Fblogin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\sdeep\\Downloads\\Fblogin (4)\\Fblogin (4)\\Fblogin\\Fblogin\\Fblogin\\Fblogin\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\values-es-rES\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 61,
+                        "endOffset": 242
+                    }
+                }
+            }
+        ]
+    }
+]

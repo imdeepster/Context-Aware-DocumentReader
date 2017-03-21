@@ -1,0 +1,7 @@
+#Fri Dec 09 16:34:51 MST 2016
+base.0=C\:\\Users\\sdeep\\Downloads\\Fblogin (4)\\Fblogin (4)\\Fblogin\\Fblogin\\Fblogin\\Fblogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bc27e50b28beaaecab8db490827be61db39df27a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\sdeep\\Downloads\\Fblogin (4)\\Fblogin (4)\\Fblogin\\Fblogin\\Fblogin\\Fblogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_28cf1b196a7572e06b862e2712144cc80cb4c8d8\\classes.dex
+base.1=C\:\\Users\\sdeep\\Downloads\\Fblogin (4)\\Fblogin (4)\\Fblogin\\Fblogin\\Fblogin\\Fblogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_28cf1b196a7572e06b862e2712144cc80cb4c8d8
+file.0=C\:\\Users\\sdeep\\Downloads\\Fblogin (4)\\Fblogin (4)\\Fblogin\\Fblogin\\Fblogin\\Fblogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bc27e50b28beaaecab8db490827be61db39df27a\\classes.dex
